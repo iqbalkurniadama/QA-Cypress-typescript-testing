@@ -1,5 +1,5 @@
 # Code Review
-testing  website sauce demo menggunakan cypress dan typescript. dalam testing ini ada 2 test cases yaitu:
+testing  website sauce demo menggunakan cypress dan typescript.
 1. login yang terdiri postive dan negative scenario. dalam folder pages terdapat login_pages.cy.js yang berfungsi untuk menampung element locator, kemudian di kirimkan ke file login.cy.js
 2. cart product yang terdiri positive dan negative scenario.dalam folder pages terdapat cartProduct.page.cy.js yang berfungsi untuk menampung element locator, kemudian di kirimkan ke file cartProduct.cy.js.
 3. dalam folder support terdapat file commands.ts yang berfungsi untuk membuat step login agar dapat di panggil secara global seperti saat di file cartProduct.cy.js memenggil login
