@@ -9,6 +9,8 @@ testing  website sauce demo menggunakan cypress dan typescript.
 
 ## How to run
 
+clone or download code QA-Cypress-typescript
+
 ```bash
 npm install
 ```
